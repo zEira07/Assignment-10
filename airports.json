@@ -1,0 +1,14 @@
+[
+  {
+    "icao": "LFLL",
+    "name": "Lyon Saint-Exupery Airport",
+    "city": "Lyon",
+    "country": "FR"
+  },
+  {
+    "icao": "KJFK",
+    "name": "John F Kennedy International Airport",
+    "city": "New York",
+    "country": "US"
+  }
+]
